@@ -1,1 +1,46 @@
-a
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+
+"logo": {
+    "type": "auto",
+    "source": "arch",
+    "color": {
+      "1": "cyan",      // Changes the primary color of the logo to cyan
+      "2": "cyan" // (Optional) Changes secondary highlights if applicable
+    },
+    "padding": {
+      "right": 2
+    }
+  },
+
+
+  "display": {
+    "color": {
+      "title": "green",  // This keeps your title green
+      "keys": "green"    // This changes the blue labels to green
+    }
+  }, 
+ "modules": [
+    "title",
+    "separator",
+    "os",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "locale",
+    "colour",
+    "break"
+  ]
+}
