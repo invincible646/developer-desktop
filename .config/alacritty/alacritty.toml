@@ -1,1 +1,8 @@
-a
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/monokai_charcoal.toml"
+]
+[window]
+dimensions = { columns = 120, lines = 25 }
+startup_mode = "Windowed"
+
