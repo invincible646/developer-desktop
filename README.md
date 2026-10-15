@@ -21,7 +21,6 @@ Customized Linux developer environment engineered for consistency, productivity,
 | **Open System Monitor (btop)** | `Shift` + `A` |
 | **Application Launcher** | `Super` + `D` *(or your custom launcher key)* |
 | **Workspace Switching** | `Super` + `1-9` |
-| **Take Screenshot** | `PrintScreen` |
 
 ---
 
