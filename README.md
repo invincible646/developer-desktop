@@ -18,7 +18,7 @@ Customized Linux developer environment engineered for consistency, productivity,
 | Action | Shortcut / Keybinding |
 | :--- | :--- |
 | **Open Terminal (Alacritty)** | `Ctrl` + `Space` |
-| **Open System Monitor (btop)** | `Shift` + `A` |
+| **Open System Monitor (btop)** | `Super` + `Z` |
 | **Application Launcher** | `Super` + `D` *(or your custom launcher key)* |
 | **Workspace Switching** | `Super` + `1-9` |
 
